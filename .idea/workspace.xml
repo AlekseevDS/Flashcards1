@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d842b138-7f3b-4e6a-90b7-87a779e8a542" name="Default Changelist" comment="add array find">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/A good stack/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/A good stack/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/A good stack/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/IMPORTant/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/IMPORTant/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/IMPORTant/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Make it your own/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Make it your own/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Make it your own/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Menu, please!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Menu, please!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Menu, please!/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Stage one, card one/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Stage one, card one/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Stage one, card one/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Statistics/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Statistics/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/Statistics/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/What’s on the card/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/What’s on the card/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/What’s on the card/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/build/classes/java/main/flashcards/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/src/flashcards/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/test/FlashcardsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/test/common/FlashcardsStage3Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array contains two numbers/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array contains two numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array contains two numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array contains two numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Harry Potter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Individual taxes/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by four/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by four/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by four/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by four/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The countdown/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The countdown/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The countdown/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The countdown/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Individual taxes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Individual taxes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Individual taxes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Individual taxes/task-info.yaml" afterDir="false" />
+    </list>
+    <list id="f7269f12-b03c-4de2-ac98-56bdee029344" name="Revert &quot;add array find&quot;" comment="Revert &quot;add array find&quot;&#10;&#10;This reverts commit 3f545d5d" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Flashcards1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2a\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fjqu7g2QPnwBt6BFMD5OWTDRsl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Flashcards1.Problems-Individual_taxes.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flashcards.Main" />
+      <module name="Flashcards1.Flashcards-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flashcards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d842b138-7f3b-4e6a-90b7-87a779e8a542" name="Default Changelist" comment="" />
+      <created>1596742068471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596742068471</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add array find">
+      <created>1597983648893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597983648893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add array find">
+      <created>1598109048545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598109048545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add array find">
+      <created>1598109923467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598109923468</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add array find" />
+    <option name="LAST_COMMIT_MESSAGE" value="add array find" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1596742381909">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1596742381909" />
+    <state x="223" y="72" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598114573021">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1598114573021" />
+    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1598109402575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598109402575" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1598115182894">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598115182894" />
+    <state x="593" y="337" key="Github.CreateGistDialog" timestamp="1597771987285">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="593" y="337" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1597771987285" />
+    <state x="644" y="315" key="Github.ShareDialog" timestamp="1598111041883">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="644" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1598111041883" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1598117273538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598117273538" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1598117273538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598117273538" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1598117273534">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598117273534" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1598117273538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598117273538" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1598115413613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598115413613" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1598115413613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1598115413613" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1598115413612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1598115413612" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1598115413613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598115413613" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1598110952617">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598110952617" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1598112938633">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1598112938633" />
+  </component>
+</project>
