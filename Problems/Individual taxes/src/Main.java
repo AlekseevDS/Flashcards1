@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int numOfComp = scan.nextInt();
-        int [] incomeComp = new int[numOfComp];
-        int [] taxesComp = new int[numOfComp];
+        int[] incomeComp = new int[numOfComp];
+        int[] taxesComp = new int[numOfComp];
 
         for (int i = 0; i < incomeComp.length; i++) {
             incomeComp[i] = scan.nextInt();

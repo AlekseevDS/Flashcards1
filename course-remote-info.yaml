@@ -181,10 +181,6 @@ topics:
   - title: Running programs on your computer
     theory_id: 3746
   5:
-  - title: Pseudocode basics
-    theory_id: 8228
-  - title: Complex constructions in pseudocode
-    theory_id: 8233
   - title: Fixed-size array
     theory_id: 7255
   - title: Dynamic array
